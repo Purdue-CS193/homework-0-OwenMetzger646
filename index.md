@@ -1,7 +1,6 @@
 # Owen Metzger's first CS193 Homework
 ## Welcome to GitHub Pages
-<ul>I love the help from the TA's to get my website finally working.</ul>
-<ul>I love the energy in the classroom.</ul>
+
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -11,6 +10,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
+-I love the help from the TA's to get my website finally working.
+-I love the energy in the classroom.
 Syntax highlighted code block
 
 # Header 1
