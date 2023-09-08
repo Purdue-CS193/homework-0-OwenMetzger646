@@ -19,7 +19,7 @@ Syntax highlighted code block
 - I love the help from the TA's to get my website finally working
 - I love the energy in the classroom
 
-1. Numbered
+1. Numbere
 2. List
 
 **Bold** and _Italic_ and `Code` text
